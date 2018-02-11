@@ -1,0 +1,1 @@
+Run grammarGenerator and pcfg.py with the supporting files.
